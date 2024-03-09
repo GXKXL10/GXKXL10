@@ -26,6 +26,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GXKXL10/GXKXL10/output/snake.svg" alt="Snake animation" />
-
 ###
