@@ -1,22 +1,69 @@
-<h2 align="left">Hi  My name is Gokul .</h2>
+<h1 align="center">
+  Hey 👋 I'm Gokul Krishna
+</h1>
 
-###
+<h3 align="center">
+  🚀 AI Graduate | 🧠 ML Enthusiast | 🔐 Exploring Systems & Security
+</h3>
 
+<img align="right" height="180" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 
+---
 
-###
+### ⚡ About Me
 
-<img align="right" height="150" src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NzEwNzAsIm5iZiI6MTcwOTk3MDc3MCwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA5VDA3NTI1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxZjYwYzI3OTM2ZDkwMzNjMDUzMDZmNDA2NzFjMzMyNDk2ZGQ3MjIxNWMxMzQ3OTcwMzI3ZjEzMmIzNDAzYmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.qOGk1q-CwsRQhMW54Pi8ACn-da_3FsKv1WTWKS_Retc"  />
+- 🎓 B.Tech CSE (Artificial Intelligence)
+- 🤖 Passionate about Machine Learning & Deep Learning
+- 🔐 Exploring Linux, Networking & Infrastructure
+- 🧠 Love building intelligent systems from scratch
+- 📈 Constantly upgrading my engineering mindset
 
-###
+---
+
+### 🛠 Tech Arsenal
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,git,github,django,tensorflow,pytorch,mysql,vscode" />
+</p>
+
+---
+
+### 🧠 Currently Leveling Up In
+
+- 🖥 Linux Internals & System Commands  
+- 🌐 Networking & Security Fundamentals  
+- 🤖 Advanced ML Concepts  
+- 🧩 Writing Cleaner, Production-Ready Code  
+
+---
+
+### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GXKXL10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GXKXL10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GXKXL10&show_icons=true&theme=radical&count_private=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GXKXL10&theme=radical&hide_border=false" height="150"/>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🔥 Contribution Graph
 
-###
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GXKXL10&theme=react-dark"/>
+
+---
+
+### 🐍 Contribution Snake Animation
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+### 💡 Quote I Live By
+
+> “Create your own luck”
+
+---
+
+<p align="center">
+  ⭐ If you like my work, feel free to explore my repositories!
+</p>
