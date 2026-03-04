@@ -39,15 +39,15 @@
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GXKXL10&show_icons=true&theme=radical&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GXKXL10&theme=radical&hide_border=false" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GXKXL10&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GXKXL10&theme=tokyonight&hide_border=false" height="150"/>
 </div>
 
 ---
 
 ### Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GXKXL10&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GXKXL10&theme=tokyo-night"/>
 
 ---
 
